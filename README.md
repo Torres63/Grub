@@ -1,0 +1,2 @@
+# Grub
+Linux jeje
